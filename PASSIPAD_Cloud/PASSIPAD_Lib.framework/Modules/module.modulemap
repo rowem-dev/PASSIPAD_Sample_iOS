@@ -1,0 +1,6 @@
+framework module PASSIPAD_Lib {
+  umbrella header "PASSIPAD_Lib.h"
+
+  export *
+  module * { export * }
+}
